@@ -5213,6 +5213,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trap (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5233427991275686041, guid: fccdf9a5943a1bd4fb7f964456845869,
+        type: 3}
+      propertyPath: m_TagString
+      value: Goal
+      objectReference: {fileID: 0}
     - target: {fileID: 5269925261953501352, guid: fccdf9a5943a1bd4fb7f964456845869,
         type: 3}
       propertyPath: m_Convex
@@ -9028,6 +9033,11 @@ PrefabInstance:
     - target: {fileID: 8944736497670723676, guid: 080e3050a26a5f94b82d2a3e03850848,
         type: 3}
       propertyPath: m_Name
+      value: Goal
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944736497670723676, guid: 080e3050a26a5f94b82d2a3e03850848,
+        type: 3}
+      propertyPath: m_TagString
       value: Goal
       objectReference: {fileID: 0}
     - target: {fileID: 8944736497670723680, guid: 080e3050a26a5f94b82d2a3e03850848,
