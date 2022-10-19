@@ -54,8 +54,9 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("You win!");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            
         }
+        
+        
         
         // The Coin object should be disabled or destroyed after the Player touches it
 
